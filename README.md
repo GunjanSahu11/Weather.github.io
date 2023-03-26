@@ -1,5 +1,8 @@
 # This is a weather app 
 
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/GunjanSahu11)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://gunjansahu11.github.io/weatherapp/)
+
 
 https://gunjansahu11.github.io/weatherapp/
 
