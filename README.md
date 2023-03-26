@@ -8,6 +8,8 @@ https://gunjansahu11.github.io/weatherapp/
 
 
 ![image](https://user-images.githubusercontent.com/74657116/227769869-73b2432d-e70d-4085-87fe-d627ee2b0348.png)
+![image](https://user-images.githubusercontent.com/74657116/227772818-5cc782e2-4d21-464a-b004-52d8509dfcd7.png)
+
 
 In this weather app, you can get the weather details of a particular city by entering the city name or you can also get your current location weather details by clicking on the “Get Device Location” button. If you entered an invalid city name then there is shown an error message.
 
